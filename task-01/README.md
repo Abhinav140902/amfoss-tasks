@@ -8,4 +8,4 @@
 - After the execution, it displayed "it's done" in blue colour in the console itself.
 
 # Screenshot
-![alt text](Screenshot from 2021-03-14 11-58-45.png)
+![alt text](Screenshot from 2021-03-14 11-58-45.jpg)
