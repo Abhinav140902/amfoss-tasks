@@ -5,4 +5,4 @@
 - Then I have received a mail for verification and completed the verification.
 - Finally, my registration is done.
 
-My Nick name in IRC freenode is **Abhinav**
+My Nick name in IRC freenode is "**Abhinav**"
