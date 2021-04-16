@@ -19,3 +19,5 @@ The task is to fix all the bugs that are encountered in the given java code.
 - After that I found that the time displaying is wrong. Then I converted milliseconds into seconds by using some basic math. 
 - I have fixed most of the errors by reading the comments and I used the search option to find the position of the required fuction in the code.
 - Finally, the Mathquiz worked perfectly.
+
+![Debugging Derbies](https://user-images.githubusercontent.com/74526207/114981120-1a228c00-9eab-11eb-9c40-4a6932f2aa42.jpeg)
