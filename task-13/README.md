@@ -20,9 +20,8 @@ The aim of the task is to design and code a circuit (Aurdino) which should be ab
 - If there is an obstacle within the range of 100 cms from the Ultrasonic distance sensor, then the motor stops rotating and the LED will show up **RED** light.
 
 # Circuit Simulation
-x-special/nautilus-clipboard
-copy
-file:///home/abhinav/Pictures/Screenshot%20from%202021-04-17%2015-59-35.png
+![Screenshot from 2021-04-17 15-59-35](https://user-images.githubusercontent.com/74526207/115114292-20e4f800-9fac-11eb-8845-17a43f73e060.png)
+
 
 # Code
 
