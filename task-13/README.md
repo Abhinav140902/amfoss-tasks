@@ -24,6 +24,7 @@ The aim of the task is to design and code a circuit (Aurdino) which should be ab
 
 
 # Code
+
 #define TRIGPIN 5
 #define ECHOPIN 6
 void setup()
@@ -54,4 +55,4 @@ void loop()
   else{digitalWrite(12,LOW);
       digitalWrite(10,HIGH);
       digitalWrite(11,LOW);}
-}
+  }
