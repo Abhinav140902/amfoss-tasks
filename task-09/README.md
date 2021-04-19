@@ -12,4 +12,4 @@ The task is to spam with messeages on telegram web using JavaScript.
 - The first step is, we should go to the [Telegram Web](https://web.telegram.org/).
 - And then we should open the console tab from the developer tools.
 - Then we should paste the code in the console tab and should press enter.
-That's it, the spamming gets started.
+That's it, the spamming of messages gets started.
