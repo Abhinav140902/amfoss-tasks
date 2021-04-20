@@ -3,7 +3,7 @@ The task is to retrieve the commits of all the repositories from amFOSS projects
 
 ## Installation
 - I have done this task in a Virtual Environment as some glitches are arising.
-- Virtual Environment can be installed by the following command. `sudo apt install virtualenv`
+- Virtual Environment can be installed by the following command: `sudo apt install virtualenv`
 - Make sure a python version >= 3.4 is installed.
 - Then I have installed perceval by the following command:
   `$ pip3 install perceval`
