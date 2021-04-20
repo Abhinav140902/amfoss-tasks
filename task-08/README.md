@@ -16,4 +16,4 @@ The task is to retrieve the commits of all the repositories from amFOSS projects
 - Then I have provided an interface of python script with the terminal commands. In that, I have used **per_page=100** to get the repos but it can only fetch 100 repos at maximum.
 
 ## Result
-In the end, 3484 commits were stored in the commits.json file.
+In the end, 3484 commits were stored in the [commits.json](https://github.com/Abhinav140902/amfoss-tasks/blob/main/task-08/commits.json) file.
