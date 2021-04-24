@@ -19,7 +19,7 @@ func main() {
 }
 
 func run() (err error) {
-	withCredentials := reddit.WithCredentials("Client-ID", "Secret", "Username", "Password")
+	withCredential := reddit.WithCredentials("Ore_LDXPuPsrQQ", "4IOJUQpCjUto_7RnKrBrp4sHRu0hfQ", "Abhinav140902", "Abhi@1409")
 	httpClient := &http.Client{Timeout: time.Second * 30}
 	client, _ := reddit.NewClient(withCredentials, reddit.WithHTTPClient(httpClient))
 	a, _, err := client.Subreddit.SearchNames(ctx, "memes")
