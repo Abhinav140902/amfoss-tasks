@@ -1,5 +1,4 @@
 package main
-
 import (
 	"context"
 	"fmt"
@@ -9,15 +8,12 @@ import (
 
 	"github.com/vartanbeno/go-reddit/reddit"
 )
-
 var ctx = context.Background()
-
 func main() {
 	if err := run(); err != nil {
 		log.Fatal(err)
 	}
 }
-
 func run() (err error) {
 	withCredential := reddit.WithCredentials("Or*******QQ", "4IOJ****Uto_7RnK*****fQ", "Ab*****2", "*********")
 	httpClient := &http.Client{Timeout: time.Second * 30}
